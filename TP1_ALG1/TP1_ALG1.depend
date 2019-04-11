@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1553899497 source:d:\codeblocks projects\tp1_alg1\src\college_list.c
+	"college_list.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554047094 
+
+1553899497 d:\codeblocks projects\tp1_alg1\include\college_list.h
+
+1554047094 source:d:\codeblocks projects\tp1_alg1\src\students.c
+	"collegestack.h"
+	"students.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554056766 source:d:\codeblocks projects\tp1_alg1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"collegestack.h"
+	"students.h"
+	"proposalstack.h"
+	"college.h"
+	"aux_funcs.h"
+
+1554078729 .h"
+
+1554047094 d:\codeblocks projects\tp1_alg1\include\collegestack.h
+
+1554047094 source:d:\codeblocks projects\tp1_alg1\src\collegestack.c
+	"collegestack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554046495 d:\codeblocks projects\tp1_alg1\include\students.h
+	"collegestack.h"
+
+1554046495 ack.h"
+
+1553953567 source:d:\codeblocks projects\tp1_alg1\src\proposalstack.c
+	<stdio.h>
+	<stdlib.h>
+	"proposalstack.h"
+
+1553953567 tack.h"
+
+1553953725 d:\codeblocks projects\tp1_alg1\include\proposalstack.h
+
+1554047094 d:\codeblocks projects\tp1_alg1\include\studentlist.h
+
+1554047094 source:d:\codeblocks projects\tp1_alg1\src\college.c
+	"college.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554047094 source:d:\codeblocks projects\tp1_alg1\src\studentlist.c
+	"studentlist.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554047094 d:\codeblocks projects\tp1_alg1\include\college.h
+	"studentlist.h"
+
+1554047094 st.h"
+
+1553972441 source:d:\codeblocks projects\tp1_alg1\main_testes.c
+	<stdio.h>
+	<stdlib.h>
+	"collegestack.h"
+	"students.h"
+	"proposalstack.h"
+	"college.h"
+
+1553972441 "
+
+1554047443 d:\codeblocks projects\tp1_alg1\include\aux_funcs.h
+
+1554078729 source:d:\codeblocks projects\tp1_alg1\src\aux_funcs.c
+	<stdio.h>
+	<stdlib.h>
+	"aux_funcs.h"
+
+1554056766 source:/home/thiago/Downloads/tp1/TP1_ALG1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"collegestack.h"
+	"students.h"
+	"proposalstack.h"
+	"college.h"
+	"aux_funcs.h"
+
+1554047094 /home/thiago/Downloads/tp1/TP1_ALG1/include/collegestack.h
+
+1554046495 /home/thiago/Downloads/tp1/TP1_ALG1/include/students.h
+	"collegestack.h"
+
+1553953725 /home/thiago/Downloads/tp1/TP1_ALG1/include/proposalstack.h
+
+1554047094 /home/thiago/Downloads/tp1/TP1_ALG1/include/college.h
+	"studentlist.h"
+
+1554047094 /home/thiago/Downloads/tp1/TP1_ALG1/include/studentlist.h
+
+1554047443 /home/thiago/Downloads/tp1/TP1_ALG1/include/aux_funcs.h
+
+1553972441 source:/home/thiago/Downloads/tp1/TP1_ALG1/main_testes.c
+	<stdio.h>
+	<stdlib.h>
+	"collegestack.h"
+	"students.h"
+	"proposalstack.h"
+	"college.h"
+
+1554078729 source:/home/thiago/Downloads/tp1/TP1_ALG1/src/aux_funcs.c
+	<stdio.h>
+	<stdlib.h>
+	"aux_funcs.h"
+
+1554047094 source:/home/thiago/Downloads/tp1/TP1_ALG1/src/college.c
+	"college.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554047094 source:/home/thiago/Downloads/tp1/TP1_ALG1/src/collegestack.c
+	"collegestack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1553953567 source:/home/thiago/Downloads/tp1/TP1_ALG1/src/proposalstack.c
+	<stdio.h>
+	<stdlib.h>
+	"proposalstack.h"
+
+1554047094 source:/home/thiago/Downloads/tp1/TP1_ALG1/src/studentlist.c
+	"studentlist.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554047094 source:/home/thiago/Downloads/tp1/TP1_ALG1/src/students.c
+	"collegestack.h"
+	"students.h"
+	<stdio.h>
+	<stdlib.h>
+

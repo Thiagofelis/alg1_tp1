@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554078393 source:d:\codeblocks projects\gerador_casos_tp1_alg1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1554078393 
+
+1554078393 source:/home/thiago/Downloads/tp1/gerador_casos_tp1_alg1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

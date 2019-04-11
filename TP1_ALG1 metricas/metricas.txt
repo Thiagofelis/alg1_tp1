@@ -1,0 +1,3 @@
+taxa de alocacao: 0.866667
+taxa de satisfacao: 0.837698
+media de preenchimento: 0.863333
