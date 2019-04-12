@@ -18,8 +18,9 @@ int studentlist_insert(studentlist* header, int student_index, int student_grade
         }
         else
         {
-            if (temp->next->grade < student_grade)
-            { /* we swap the current student with the new one */
+            if ((temp->next->grade < student_grade) ||
+/* tie criteria => */ ((temp->next->grade == student_grade) && (student_index < temp->next->index)))
+            { /* we swap the current student in the list with the new one */
                 int temp1, temp2;
                 temp1 = temp->next->grade;
                 temp2 = temp->next->index;
@@ -29,6 +30,7 @@ int studentlist_insert(studentlist* header, int student_index, int student_grade
                 student_index = temp2;
               /* and we continue the search, to try to reallocate the old student in the list */
             }
+
             temp = temp->next;
         }
     }

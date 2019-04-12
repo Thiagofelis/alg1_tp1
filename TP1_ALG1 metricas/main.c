@@ -136,7 +136,10 @@ int main(int argc, char** argv)
 
     for (i = 0; i < num_colleges; i++)
     {
-        taxa_ocupacao += ((float)coll_vec[i].occupied_places) / ((float)coll_vec[i].max_num_of_students);
+        if (coll_vec[i].max_num_of_students != 0)
+        {
+            taxa_ocupacao += ((float)coll_vec[i].occupied_places) / ((float)coll_vec[i].max_num_of_students);
+        }
     }
 
     fprintf(metricas, "media de preenchimento: %f\n", ((float)taxa_ocupacao)/((float)num_colleges));
